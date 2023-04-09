@@ -1,0 +1,29 @@
+{
+	"profile": {
+		"enabled_groups": [
+			"Actor System (Creator)",
+			"Blocks (Creator)",
+			"AI System Control (Creator)",
+			"AI System Goal (Creator)",
+			"AI System Navigation (Creator)",
+			"AI System Target Goal (Creator)",
+			"Command System (Creator)",
+			"Network System (Creator)",
+			"Script Engine (Creator)",
+			"Block Actor Render System (Creator)",
+			"Actor Render System (Creator)",
+			"Model (Creator)",
+			"RenderController (Creator)",
+			"Animation (Creator)",
+			"AI Village (Creator)",
+			"Path Finder System (Creator)",
+			"Sound System (Creator)",
+			"UI System (Creator)",
+			"Baseline (Creator)",
+			"Particles (Creator)",
+			"Level Renderer (Creator)"
+		],
+		"min_group_stack_depth": 0,
+		"headers_enabled": false
+	}
+}
