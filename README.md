@@ -17,6 +17,13 @@ In fact, it is modified from the education version, and there are also some magi
 After downloading, extract the compressed package directly, and then double-click the 1-Minecraft.exe file to run   
 After testing, only letters and numbers can be included in the file storage path, otherwise an error will be reported when opened  
 ## 截图 截圖 Screenshot  
+![](gOuaP.png)  
+![](gahjj.png)  
+![](gaORs.png)  
+![](gOCIg.png)  
+![](garrq.png)  
+![](gazht.png)  
+![](2022_1010_b0c3a62ej00rjicgh00sgd0013z00ozp.jpg)  
 ## 支持的语言 支援的語言 Supported languages
 ![](src/yuyan1.png)  
 ![](src/yuyan2.png)  
