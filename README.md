@@ -39,7 +39,7 @@ Translated from Microsoft Bing
 常见问题：  
 - 为什么游戏在我启动时崩溃了？-  
 发生这种情况是因为您没有 Windows 7 的主要更新安装并测试  
-https://www.microsoft.com/es-ES/download/details.aspx?id=36805  
+https://www.microsoft.com/zh-cn/download/details.aspx?id=36805  
   
 - 游戏告诉我缺少API，我该怎么办？-  
 发生这种情况是因为您没有安装视觉C++。谷歌程序并安装它  
@@ -83,7 +83,7 @@ FrAndroid 和 Salkazapr
 常見問題：  
 - 為什麼遊戲在我啟動時崩潰了？-  
 發生這種情況是因為您沒有 Windows 7 的主要更新安裝並測試  
-https://www.microsoft.com/es-ES/download/details.aspx?id=36805  
+https://www.microsoft.com/zh-TW/download/details.aspx?id=36805  
   
 - 遊戲告訴我缺少API，我該怎麼辦？-  
 發生這種情況是因為您沒有安裝視覺C++。谷歌程式並安裝它  
@@ -129,7 +129,7 @@ FrAndroid 和 Salkazapr
 Frequently asked questions:  
 - Why does the game crash me when I start? -  
 This happens because you do not have a major update of windows 7 install it and test  
-https://www.microsoft.com/es-ES/download/details.aspx?id=36805  
+https://www.microsoft.com/en-US/download/details.aspx?id=36805  
   
 - The game tells me that an API is missing, what do I do? -  
 This happens because you don't have Visual C++ installed. Google the program and install it  
