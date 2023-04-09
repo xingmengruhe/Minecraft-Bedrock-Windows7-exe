@@ -1,4 +1,5 @@
 # Minecraft-Bedrock-Windows7-exe  
+The English translation is from Microsoft Bing  
 ## 介绍 介紹 introduce
 ### 简体中文
 由 YouTube 博主 OptiCraft 制作  
@@ -15,6 +16,7 @@ Produced by YouTube blogger OptiCraft
 In fact, it is modified from the education version, and there are also some magic modification operations, and some places are different from the normal bedrock version  
 After downloading, extract the compressed package directly, and then double-click the 1-Minecraft.exe file to run   
 After testing, only letters and numbers can be included in the file storage path, otherwise an error will be reported when opened  
+## 截图 截圖 Screenshot  
 ## 支持的语言 支援的語言 Supported languages
 ![](src/yuyan1.png)  
 ![](src/yuyan2.png)  
