@@ -1,0 +1,15 @@
+{
+	"profile": {
+		"enabled_groups": [
+			"Baseline",
+			"Baseline (Creator)",
+			"Chunk load system",
+			"Chunk build system",
+			"World Generation system",
+			"Overworld Generation system",
+			"ResourceLoad"
+		],
+		"min_group_stack_depth": 1,
+		"headers_enabled": true
+	}
+}
